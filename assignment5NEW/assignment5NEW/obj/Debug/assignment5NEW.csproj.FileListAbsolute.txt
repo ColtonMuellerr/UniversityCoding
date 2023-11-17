@@ -1,0 +1,11 @@
+H:\C#\assignment5NEW\assignment5NEW\bin\Debug\assignment 5.mdb
+H:\C#\assignment5NEW\assignment5NEW\bin\Debug\assignment5NEW.exe.config
+H:\C#\assignment5NEW\assignment5NEW\bin\Debug\assignment5NEW.exe
+H:\C#\assignment5NEW\assignment5NEW\bin\Debug\assignment5NEW.pdb
+H:\C#\assignment5NEW\assignment5NEW\obj\Debug\assignment5NEW.csproj.AssemblyReference.cache
+H:\C#\assignment5NEW\assignment5NEW\obj\Debug\assignment5NEW.Form1.resources
+H:\C#\assignment5NEW\assignment5NEW\obj\Debug\assignment5NEW.Properties.Resources.resources
+H:\C#\assignment5NEW\assignment5NEW\obj\Debug\assignment5NEW.csproj.GenerateResource.cache
+H:\C#\assignment5NEW\assignment5NEW\obj\Debug\assignment5NEW.csproj.CoreCompileInputs.cache
+H:\C#\assignment5NEW\assignment5NEW\obj\Debug\assignment5NEW.exe
+H:\C#\assignment5NEW\assignment5NEW\obj\Debug\assignment5NEW.pdb
