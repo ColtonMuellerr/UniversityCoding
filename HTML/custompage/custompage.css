@@ -1,0 +1,72 @@
+
+      body {
+        margin: 0 4em;
+        font-family: 'Open Sans', sans-serif;
+        margin-top: 0em;
+        margin-bottom: 0em;
+      }
+
+      h1 {
+        font-family: 'Roboto Slab', serif;
+        font-size: 2rem;
+        text-align: center;
+        color: #a02f3d;
+      }
+
+      blockquote {
+        margin: auto;
+        min-height: 120px;
+        max-width: 900px;
+        background-color: rgb(243, 239, 239);
+        font-family: 'Roboto Slab', serif;
+        font-size: 1.25rem;
+        text-align: center;
+        border: 1px solid black;
+      }
+
+      p {
+        font-size: 0.9rem;
+        text-align: center;
+        margin: 1em 0;
+      }
+
+      .quote {
+        font-weight: bold;
+      }
+
+      img {
+        display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 20px;
+        width: 800px;
+        height: 300px;
+      }
+      
+    
+      a {
+        color: #9f2042;
+        text-decoration: none;
+      }
+
+      .external-link {
+        display: inline-block;
+        padding: 0.5em 1em;
+        border: 1px solid #9f2042;
+        border-radius: 5px;
+        margin: 1em;
+        transition: background-color 0.2s, color 0.2s;
+      }
+
+      .external-link:hover {
+        background-color: #a9a9ba;
+        color: #9f2042;
+      }
+
+      footer {
+        background-color: black;
+        min-height: 120px;
+        text-align: center;
+        font-size: 0.9rem;
+        margin: 1em 0;
+      }

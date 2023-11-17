@@ -1,0 +1,41 @@
+@charset "utf-8";
+body {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1020px;
+	min-width: 640px;
+}
+
+body > header {
+	margin: 0;
+	padding: 0px;
+	width: 100%;
+	overflow: hidden;
+}
+
+body > header > img {
+	margin: 0px;
+	padding: 0px;
+}
+
+body > nav {
+	width: 20%;
+	float: left;
+	margin: 0 0 0 2%;
+}
+
+body > section#Section {
+	width: 50%;
+	float: left;
+	margin: 0 0 0 2%;
+}
+
+body > section > aside#aside {
+	float: right;
+	width: 30%;
+}
+
+body > footer {
+	width: 100%;
+	clear: left;
+}
